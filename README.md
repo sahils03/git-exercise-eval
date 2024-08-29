@@ -1,1 +1,2 @@
-# Git Exercise Evaluation in update readme branch
+# Git Exercise conflict Evaluation in update readme branch
+##conflict section
